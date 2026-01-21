@@ -1,5 +1,6 @@
 .Top-Menu {
   position: fixed; top: 0px; left: 0px; right: 0px; height: 50px; background-color: black; color: white;
+  text-align: center;
 }
 .Main {
   position: fixed; top: 50px; left: 0px; right: 0px; height: 100%; background-color: white; color: black;
